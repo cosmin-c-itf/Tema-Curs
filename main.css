@@ -1,8 +1,9 @@
-h1 {
-    color: blue;
-}
-
-p {
-    background-color: aqua;
-    color: brown;
-}
+a:link, a:visited {
+    color: (internal value);
+    text-decoration: underline;
+    cursor: auto;
+  }
+  
+  a:link:active, a:visited:active {
+    color: (internal value);
+  }
